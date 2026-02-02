@@ -1,7 +1,7 @@
 import { describe, expect, test } from "vitest";
 
-const person = {
-  isActive: false,
+const persons = {
+  isActive: true,
   age: 32,
 };
 
