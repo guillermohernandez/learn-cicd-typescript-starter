@@ -41,4 +41,4 @@ jobs:
         run: npm ci
 
       - name: Style
-        run: npm run test -- --coverage
+        run: npm run format:check
